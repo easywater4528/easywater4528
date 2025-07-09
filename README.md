@@ -42,9 +42,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9DPt7zvKzJG5zY3O/giphy.gif" width="180" />
-</p>
+
 
 
 ---
