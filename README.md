@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9DPt7zvKzJG5zY3O/giphy.gif" width="160"/>
    🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
 </p>
 
