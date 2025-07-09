@@ -36,11 +36,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" />
 </p>
 
 
@@ -50,7 +50,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easywater4528&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easywater4528&layout=compact&theme=tokyonight&title_color=FFB6C1" alt="Top Languages" />
 </p>
 
 ---
@@ -71,5 +71,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="50"/>
 </p>
+
+
