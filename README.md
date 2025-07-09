@@ -1,8 +1,8 @@
 <h1 align="center">✨ Welcome to easywater4528's GitHub ✨</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&width=420&lines=🌼+Hi+I'm+Jisoo+Lee+🌼;" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
    🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
@@ -74,9 +74,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2&style=flat" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=Profile%20Views&color=0e75b6&style=flat" alt="view count" />
 </p>
