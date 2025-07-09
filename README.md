@@ -1,7 +1,12 @@
-<h1 align="center">👋 Hi, I'm Jisoo LEE</h1>
+<h1 align="center">✨ Welcome to easywater4528's GitHub ✨</h1>
+
 <p align="center">
-   <img src="https://raw.githubusercontent.com/zero-to-mastery/Animation-Nation/main/pixel-cat.gif" width="120" />
-  🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&width=420&lines=🌼+Network+Researcher+%7C+Python+Dev+🌼;안녕하세요,+연구+기록+중입니다!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9DPt7zvKzJG5zY3O/giphy.gif" width="160"/>
+   🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
 </p>
 
 ---
