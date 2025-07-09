@@ -23,17 +23,11 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE"/>
   <img src="https://img.shields.io/badge/MongoDB-A6E3A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-C0F0D4?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/RaspberryPi-FFB7CE?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-B5D0FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-ADD8E6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -48,6 +42,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9DPt7zvKzJG5zY3O/giphy.gif" width="180" />
+</p>
+
 
 ---
 
@@ -73,6 +71,11 @@
 - 🖋️ Blog (coming soon): *Network + Python 연구 기록 예정!*
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2&style=flat" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=easywater4528&label=Profile%20Views&color=0e75b6&style=flat" alt="view count" />
