@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jisoo LEE</h1>
 <p align="center">
+   <img src="https://raw.githubusercontent.com/zero-to-mastery/Animation-Nation/main/pixel-cat.gif" width="120" />
   🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
 </p>
 
@@ -21,6 +22,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
