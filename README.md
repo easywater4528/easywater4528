@@ -17,7 +17,6 @@
 - 🧠 Interested in **Networking**, **IoT Systems**, and **802.11bn protocols**  
 - 🔬 Current focus: **NPCA optimization**, **channel access fairness**, **Python simulation**
 - 📝 I document my research, prototypes, and experiments on GitHub  
-- 🎓 GitHub는 제 연구와 성장 기록의 아카이브입니다!
 
 ---
 
@@ -25,10 +24,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=4B8BBE"/>
-  <img src="https://img.shields.io/badge/MongoDB-A6E3A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-C0F0D4?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RaspberryPi-FFB7CE?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-ADD8E6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
@@ -66,7 +61,6 @@
 ### 📬 Contact
 
 - 📫 Email: **easywater4528@gmail.com**  
-- 🖋️ Blog (coming soon): *Network + Python 연구 기록 예정!*
 
 ---
 
