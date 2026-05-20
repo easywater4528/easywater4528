@@ -1,8 +1,8 @@
-<h1 align="center">✨ Welcome to easywater4528's GitHub ✨</h1>
+<h1 align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&width=420&lines=🌼+Hi+I'm+Jisoo+Lee+🌼;" alt="Typing SVG" />
 </p>
-
+</h1>
 
 <p align="center">
    🌐 Network Researcher | 📡 Wi-Fi & IoT Enthusiast
