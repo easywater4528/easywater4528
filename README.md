@@ -88,48 +88,43 @@
   <tbody>
     <tr>
       <td><b>2026</b></td>
-      <td><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone [cite: 73]</td>
-      <td>Cebu, Philippines [cite: 96]</td>
+      <td><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone </td>
+      <td>Cebu, Philippines </td>
     </tr>
     <tr>
       <td><b>2026</b></td>
-      <td><b>Founder & Organizer</b>, IoT Club "사물컴퍼니" [cite: 108]<br><sub>- Led Git/GitHub collaborative development seminars and resource management tracks [cite: 120]</sub></td>
-      <td>Soonchunhyang Univ. [cite: 128]</td>
+      <td><b>Founder & Organizer</b>, IoT Club "사물컴퍼니" <br><sub>- Led Git/GitHub collaborative development seminars and resource management tracks </sub></td>
+      <td>Soonchunhyang Univ. </td>
     </tr>
     <tr>
       <td><b>2026</b></td>
-      <td>Selected Participant, <b>CES 2026</b> School Representative [cite: 72]</td>
-      <td>Las Vegas, USA [cite: 94]</td>
+      <td>Selected Participant, <b>CES 2026</b> School Representative</td>
+      <td>Las Vegas, USA </td>
     </tr>
     <tr>
       <td><b>2025.03 - 06</b></td>
-      <td><b>IoT Platform Anti-Theft System Project</b> [cite: 61]<br><sub>- Developed an access control system using <b>Raspberry Pi 4 and RFID</b> [cite: 63]<br>- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b> [cite: 62, 64]</sub></td>
+      <td><b>IoT Platform Anti-Theft System Project</b> <br><sub>- Developed an access control system using <b>Raspberry Pi 4 and RFID</b> <br>- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b> </sub></td>
       <td>Soonchunhyang Univ. [cite: 61]</td>
     </tr>
     <tr>
       <td><b>2025.10</b></td>
-      <td><b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon [cite: 75]<br><sub>- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app [cite: 38, 41]</sub></td>
-      <td>S. Korea [cite: 75]</td>
+      <td><b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon <br><sub>- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app </sub></td>
+      <td>S. Korea </td>
     </tr>
     <tr>
       <td><b>2025</b></td>
-      <td><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest [cite: 75]</td>
-      <td>S. Korea [cite: 75]</td>
+      <td><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest </td>
+      <td>S. Korea </td>
     </tr>
     <tr>
       <td><b>2025.03 - 06</b></td>
-      <td><b>Smart LED Elevator Embedded System Project</b> [cite: 65]<br><sub>- Designed elevator operation logic and <b>LED control</b> based on button inputs [cite: 67]<br>- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b> [cite: 68]</sub></td>
-      <td>Soonchunhyang Univ. [cite: 92]</td>
+      <td><b>Smart LED Elevator Embedded System Project</b> <br><sub>- Designed elevator operation logic and <b>LED control</b> based on button inputs <br>- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b></sub></td>
+      <td>Soonchunhyang Univ.</td>
     </tr>
     <tr>
       <td><b>Awarded</b></td>
-      <td><b>Academic Scholarships</b><br><sub>- Academic Excellence Scholarship (성적장학금 1회) [cite: 113]<br>- Kim Jung-ok Scholarship (김정옥 장학금 1회) [cite: 114]</sub></td>
-      <td>Soonchunhyang Univ. [cite: 110]</td>
-    </tr>
-    <tr>
-      <td><b>Active</b></td>
-      <td><b>Open Source Contribution & Studies</b><br><sub>- Active practicing in global open-source contribution (<a href="https://github.com/firstcontributions/first-contributions">first-contributions</a>)<br>- Managing core C++ practices, CS foundations, and data visualizations (SKKU_matplotlib)</sub></td>
-      <td>GitHub Ecosystem</td>
+      <td><b>Academic Scholarships</b><br><sub>- Academic Excellence Scholarship (성적장학금 1회) <br>- Kim Jung-ok Scholarship (김정옥 장학금 1회) </sub></td>
+      <td>Soonchunhyang Univ.</td>
     </tr>
   </tbody>
 </table>
