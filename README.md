@@ -20,14 +20,14 @@
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><b>2026.06 - </b></td>
+      <td width="25%"><b>2026.06 - PRESENT</b></td>
       <td width="45%"><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
       <td width="30%"><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
     </tr>
     <tr>
       <td width="25%"><b>2022.03 - 2027.02</b></td>
       <td width="45%"><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
-      <td width="30%"><b>Undergraduate Student</b><br><sub>(GPA: 4.01 / 4.5)</sub></td>
+      <td width="30%"><b>Undergraduate Student</b><br></td>
     </tr>
   </tbody>
 </table>
@@ -134,9 +134,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=easywater4528&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" width="49%" />
@@ -155,12 +152,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=easywater4528&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
 </p>
 
----
-
-## 📬 Contact
-
-* 📧 Email: **easywater4528@gmail.com**
-* 🧑‍💻 GitHub: [easywater4528](https://github.com/easywater4528)
 
 ---
 <p align="center">
