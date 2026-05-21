@@ -1,12 +1,23 @@
+<div align="center">
+  <div style="position: relative; width: 100%; max-width: 800px;">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&animation=twinkling&theme=enDirect" width="100%" style="border-radius: 6px;" />
+    
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+      <h1 align="center" style="margin: 0; border: none; padding: 0;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=300&color=FF69B4&center=true&width=500&lines=🌼+Hi+I'm+Jisoo+Lee+🌼" alt="Typing SVG" />
+      </h1>
+      <p align="center" style="margin-top: 10px; font-weight: 500; text-shadow: 0px 0px 8px rgba(0,0,0,0.5);">
+        🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
+      </p>
+    </div>
+  </div>
+</div>
+
 <p align="center">
-  <a href="https://github.com/easywater4528">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi,%20Jisoo%20Lee%20&fontSize=48&fontColor=ffffff&animation=soft&fontAlignY=40&theme=tokyonight" width="100%" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=🌐+Wireless+Network+Researcher;📡+Next-Generation+Wi-Fi+Enthusiast;🤖+ROS2+%26+IoV+Engineer;🌼+Welcome+to+my+GitHub+🌼" alt="Typing SVG">
-</h3>
+---
 
 ---
 
