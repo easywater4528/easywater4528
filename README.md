@@ -6,7 +6,6 @@
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
 </p>
 
-
 ---
 
 ## 🎓 Education & Research Journey
@@ -21,14 +20,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>2026.07 - Present</b></td>
-      <td><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
-      <td><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
+      <td width="25%"><b>2026.06 - </b></td>
+      <td width="45%"><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
+      <td width="30%"><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
     </tr>
     <tr>
-      <td><b>2022.03 - Present</b></td>
-      <td><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
-      <td><b>Undergraduate Student</b><br><sub>(GPA: 4.01 / 4.5)</sub></td>
+      <td width="25%"><b>2022.03 - 2027.02</b></td>
+      <td width="45%"><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
+      <td width="30%"><b>Undergraduate Student</b><br><sub>(GPA: 4.01 / 4.5)</sub></td>
     </tr>
   </tbody>
 </table>
@@ -42,7 +41,7 @@
   * *"IMPACT OF FRAME DURATION ON CROSS-CHANNEL INTERFERENCE AND COEXISTENCE IN IEEE 802.11BN NPCA"*
   * Conducted performance analysis on Wi-Fi 8 MAC layer technology (throughput, delay, and channel efficiency).
 
-### 🚘 Ongoing & Key Projects
+### 🚘 Autonomous Driving & Healthcare Projects
 * **Wireless Swarm Autonomous Driving System (Graduation Project)**
   * **Tech Stack:** `ROS2`, `Rider`, `Docker`, `IMU`, `Odometry`, `Camera`, `DC/Step Motor`, `YOLOv5`
   * Implementing ROS2-based distributed vehicle control with a Master-Slave architecture.
@@ -63,9 +62,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
-### 🤖 Robotics & Tools
+### 🤖 Robotics, IoT & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -88,49 +89,54 @@
   <tbody>
     <tr>
       <td><b>2026</b></td>
-      <td><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone </td>
-      <td>Cebu, Philippines </td>
+      <td><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone</td>
+      <td>Cebu, Philippines</td>
     </tr>
     <tr>
       <td><b>2026</b></td>
-      <td><b>Founder & Organizer</b>, IoT Club "사물컴퍼니" <br><sub>- Led Git/GitHub collaborative development seminars and resource management tracks </sub></td>
-      <td>Soonchunhyang Univ. </td>
+      <td><b>Founder & Organizer</b>, IoT Club "사물컴퍼니"<br><sub>- Led Git/GitHub collaborative development seminars and resource management tracks</sub></td>
+      <td>Soonchunhyang Univ.</td>
     </tr>
     <tr>
       <td><b>2026</b></td>
       <td>Selected Participant, <b>CES 2026</b> School Representative</td>
-      <td>Las Vegas, USA </td>
+      <td>Las Vegas, USA</td>
     </tr>
     <tr>
       <td><b>2025.03 - 06</b></td>
-      <td><b>IoT Platform Anti-Theft System Project</b> <br><sub>- Developed an access control system using <b>Raspberry Pi 4 and RFID</b> <br>- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b> </sub></td>
-      <td>Soonchunhyang Univ. [cite: 61]</td>
+      <td><b>IoT Platform Anti-Theft System Project</b><br><sub>- Developed an access control system using <b>Raspberry Pi 4 and RFID</b><br>- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b></sub></td>
+      <td>Soonchunhyang Univ.</td>
     </tr>
     <tr>
       <td><b>2025.10</b></td>
-      <td><b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon <br><sub>- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app </sub></td>
-      <td>S. Korea </td>
+      <td><b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon<br><sub>- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app</sub></td>
+      <td>S. Korea</td>
     </tr>
     <tr>
       <td><b>2025</b></td>
-      <td><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest </td>
-      <td>S. Korea </td>
+      <td><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest</td>
+      <td>S. Korea</td>
     </tr>
     <tr>
       <td><b>2025.03 - 06</b></td>
-      <td><b>Smart LED Elevator Embedded System Project</b> <br><sub>- Designed elevator operation logic and <b>LED control</b> based on button inputs <br>- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b></sub></td>
+      <td><b>Smart LED Elevator Embedded System Project</b><br><sub>- Designed elevator operation logic and <b>LED control</b> based on button inputs<br>- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b></sub></td>
       <td>Soonchunhyang Univ.</td>
     </tr>
     <tr>
       <td><b>Awarded</b></td>
-      <td><b>Academic Scholarships</b><br><sub>- Academic Excellence Scholarship (성적장학금 1회) <br>- Kim Jung-ok Scholarship (김정옥 장학금 1회) </sub></td>
+      <td><b>Academic Scholarships</b><br><sub>- Academic Excellence Scholarship (성적장학금 1회)<br>- Kim Jung-ok Scholarship (김정옥 장학금 1회)</sub></td>
       <td>Soonchunhyang Univ.</td>
     </tr>
   </tbody>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=easywater4528&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" width="49%" />
@@ -138,7 +144,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easywater4528&layout=compact&theme=tokyonight&title_color=FFB6C1" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easywater4528&layout=compact&theme=tokyonight&title_color=FFB6C1" alt="Top Languages" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=easywater4528&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=easywater4528&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -148,7 +162,7 @@
 * 📧 Email: **easywater4528@gmail.com**
 * 🧑‍💻 GitHub: [easywater4528](https://github.com/easywater4528)
 
-  ---
-  <p align="center">
+---
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
 </p>
