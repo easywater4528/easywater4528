@@ -6,9 +6,6 @@
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
-</p>
 
 ---
 
@@ -141,7 +138,7 @@
         <td style="padding: 14px 8px; vertical-align: top;">S. Korea</td>
       </tr>
       <tr style="border-bottom: 1px solid #3A3A3A;">
-        <td style="padding: 14px 8px; vertical-align: top;"><b>2025.03 - 06</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2022.09 - 12</b></td>
         <td style="padding: 14px 8px; vertical-align: top;">
           <b>Smart LED Elevator Embedded System Project</b><br>
           <span style="font-size: 12px; color: #8B949E;">- Designed elevator operation logic and <b>LED control</b> based on button inputs</span><br>
@@ -180,3 +177,9 @@
 
 * 📧 Email: **easywater4528@gmail.com**
 * 🧑‍💻 GitHub: [easywater4528](https://github.com/easywater4528)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
+</p>
+
