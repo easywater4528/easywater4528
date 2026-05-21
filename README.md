@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=300&color=FF69B4&center=true&width=500&lines=🌼+Hi+I'm+Jisoo+Lee+🌼" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
+  <a href="https://github.com/easywater4528">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Hi,%20I'm%20Jisoo%20Lee%20🌼&fontSize=42&fontColor=ffffff&animation=twinkling&theme=tokyonight" width="100%" />
+  </a>
 </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=🌐+Wireless+Network+Researcher;📡+Next-Generation+Wi-Fi+Enthusiast;🤖+ROS2+%26+IoV+Engineer; Welcome+to+my+Research+Space+✨" alt="Typing SVG" />
+</h3>
 
 
 ---
