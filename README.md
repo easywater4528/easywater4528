@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=260&section=header&text=Hi%20I'm%20Jisoo%20Lee&fontSize=55&fontcolor=f0f0f0&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=260&section=header&text=Hi%20I'm%20Jisoo%20Lee&fontSize=55&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=20" width="100%" />
 </p>
 
 <p align="center">
