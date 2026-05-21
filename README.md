@@ -10,7 +10,7 @@
 
 ## 🎓 Education & Research Journey
 
-<table width="100%">
+<table width="100%" style="width: 100%; table-layout: fixed;">
   <thead>
     <tr>
       <th width="25%" align="left">Period</th>
@@ -20,14 +20,14 @@
   </thead>
   <tbody>
     <tr>
-      <td width="25%"><b>2026.06 - PRESENT</b></td>
-      <td width="45%"><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
-      <td width="30%"><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
+      <td><b>2026.06 - Present</b></td>
+      <td><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
+      <td><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
     </tr>
     <tr>
-      <td width="25%"><b>2022.03 - 2027.02</b></td>
-      <td width="45%"><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
-      <td width="30%"><b>Undergraduate Student</b><br></td>
+      <td><b>2022.03 - Present</b></td>
+      <td><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
+      <td><b>Undergraduate Student</b><br><sub>(GPA: 4.01 / 4.5)</sub></td>
     </tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@
 
 ## 🏆 Honors & Activities
 
-<table width="100%">
+<table width="100%" style="width: 100%; table-layout: fixed;">
   <thead>
     <tr>
       <th width="15%" align="left">Year / Status</th>
@@ -134,26 +134,19 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" width="85%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=easywater4528&layout=compact&theme=tokyonight&title_color=FFB6C1" alt="Top Languages" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=easywater4528&theme=tokyonight" alt="Profile Details" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=easywater4528&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
-</p>
-
 
 ---
+
+## 📬 Contact
+
+* 📧 Email: **easywater4528@gmail.com**
+* 🧑‍💻 GitHub: [easywater4528](https://github.com/easywater4528)
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
 </p>
