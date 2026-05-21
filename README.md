@@ -6,31 +6,43 @@
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
+</p>
+
 ---
 
 ## 🎓 Education & Research Journey
 
-<table width="100%" style="width: 100%; table-layout: fixed;">
-  <thead>
-    <tr>
-      <th width="25%" align="left">Period</th>
-      <th width="45%" align="left">Institution & Affiliation</th>
-      <th width="30%" align="left">Status / Role</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>2026.06 - Present</b></td>
-      <td><b>Dongguk University</b><br><sub>Department of Electronic and Electrical Engineering</sub></td>
-      <td><b>Research Intern</b><br><sub>(Pre-Master's)</sub></td>
-    </tr>
-    <tr>
-      <td><b>2022.03 - Present</b></td>
-      <td><b>Soonchunhyang University</b><br><sub>Department of Internet of Things (IoT)</sub></td>
-      <td><b>Undergraduate Student</b><br><sub>(GPA: 4.01 / 4.5)</sub></td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse; border-spacing: 0; text-align: left;">
+    <thead>
+      <tr style="border-bottom: 2px solid #5A5A5A;">
+        <th style="width: 25%; padding: 12px 8px; font-weight: 600;">Period</th>
+        <th style="width: 45%; padding: 12px 8px; font-weight: 600;">Institution & Affiliation</th>
+        <th style="width: 30%; padding: 12px 8px; font-weight: 600;">Status / Role</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2026.06 - Present</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <span style="font-size: 16px; font-weight: bold;">Dongguk University</span><br>
+          <span style="font-size: 13px; color: #8B949E;">Department of Electronic and Electrical Engineering</span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;"><b>Research Intern</b><br><span style="font-size: 12px; color: #8B949E;">(Pre-Master's)</span></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2022.03 - Present</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <span style="font-size: 16px; font-weight: bold;">Soonchunhyang University</span><br>
+          <span style="font-size: 13px; color: #8B949E;">Department of Internet of Things (IoT)</span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;"><b>Undergraduate Student</b><br></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
@@ -78,64 +90,88 @@
 
 ## 🏆 Honors & Activities
 
-<table width="100%" style="width: 100%; table-layout: fixed;">
-  <thead>
-    <tr>
-      <th width="15%" align="left">Year / Status</th>
-      <th width="55%" align="left">Award / Project / Activity / Scholarship</th>
-      <th width="30%" align="left">Organization / Venue</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>2026</b></td>
-      <td><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone</td>
-      <td>Cebu, Philippines</td>
-    </tr>
-    <tr>
-      <td><b>2026</b></td>
-      <td><b>Founder & Organizer</b>, IoT Club "사물컴퍼니"<br><sub>- Led Git/GitHub collaborative development seminars and resource management tracks</sub></td>
-      <td>Soonchunhyang Univ.</td>
-    </tr>
-    <tr>
-      <td><b>2026</b></td>
-      <td>Selected Participant, <b>CES 2026</b> School Representative</td>
-      <td>Las Vegas, USA</td>
-    </tr>
-    <tr>
-      <td><b>2025.03 - 06</b></td>
-      <td><b>IoT Platform Anti-Theft System Project</b><br><sub>- Developed an access control system using <b>Raspberry Pi 4 and RFID</b><br>- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b></sub></td>
-      <td>Soonchunhyang Univ.</td>
-    </tr>
-    <tr>
-      <td><b>2025.10</b></td>
-      <td><b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon<br><sub>- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app</sub></td>
-      <td>S. Korea</td>
-    </tr>
-    <tr>
-      <td><b>2025</b></td>
-      <td><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest</td>
-      <td>S. Korea</td>
-    </tr>
-    <tr>
-      <td><b>2025.03 - 06</b></td>
-      <td><b>Smart LED Elevator Embedded System Project</b><br><sub>- Designed elevator operation logic and <b>LED control</b> based on button inputs<br>- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b></sub></td>
-      <td>Soonchunhyang Univ.</td>
-    </tr>
-    <tr>
-      <td><b>Awarded</b></td>
-      <td><b>Academic Scholarships</b><br><sub>- Academic Excellence Scholarship (성적장학금 1회)<br>- Kim Jung-ok Scholarship (김정옥 장학금 1회)</sub></td>
-      <td>Soonchunhyang Univ.</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse; border-spacing: 0; text-align: left;">
+    <thead>
+      <tr style="border-bottom: 2px solid #5A5A5A;">
+        <th style="width: 15%; padding: 12px 8px; font-weight: 600;">Year / Status</th>
+        <th style="width: 55%; padding: 12px 8px; font-weight: 600;">Award / Project / Activity / Scholarship</th>
+        <th style="width: 30%; padding: 12px 8px; font-weight: 600;">Organization / Venue</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2026</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;"><b>Grand Prize (대상)</b>, Global AI Healthcare Convergence Capstone</td>
+        <td style="padding: 14px 8px; vertical-align: top;">Cebu, Philippines</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2026</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <b>Founder & Organizer</b>, IoT Club "사물컴퍼니"<br>
+          <span style="font-size: 12px; color: #8B949E;">- Led Git/GitHub collaborative development seminars and resource management tracks</span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;">Soonchunhyang Univ.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2026</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">Selected Participant, <b>CES 2026</b> School Representative</td>
+        <td style="padding: 14px 8px; vertical-align: top;">Las Vegas, USA</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2025.03 - 06</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <b>IoT Platform Anti-Theft System Project</b><br>
+          <span style="font-size: 12px; color: #8B949E;">- Developed an access control system using <b>Raspberry Pi 4 and RFID</b></span><br>
+          <span style="font-size: 12px; color: #8B949E;">- Integrated a <b>Camera Module</b> for image logging and linked data with <b>Mobius IoT Platform</b></span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;">Soonchunhyang Univ.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2025.10</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <b>Grand Prize (최우수상)</b>, Capstone Design & AI Joint Hackathon<br>
+          <span style="font-size: 12px; color: #8B949E;">- Developed <b>"Don't-be-in-pain"</b>, a patient-caregiver connection app</span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;">S. Korea</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2025</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;"><b>Excellence Prize (우수상)</b>, ICT Convergence Project Contest</td>
+        <td style="padding: 14px 8px; vertical-align: top;">S. Korea</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>2025.03 - 06</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <b>Smart LED Elevator Embedded System Project</b><br>
+          <span style="font-size: 12px; color: #8B949E;">- Designed elevator operation logic and <b>LED control</b> based on button inputs</span><br>
+          <span style="font-size: 12px; color: #8B949E;">- Implemented real-time floor status and info display using <b>Arduino Uno and LCD</b></span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;">Soonchunhyang Univ.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #3A3A3A;">
+        <td style="padding: 14px 8px; vertical-align: top;"><b>Awarded</b></td>
+        <td style="padding: 14px 8px; vertical-align: top;">
+          <b>Academic Scholarships</b><br>
+          <span style="font-size: 12px; color: #8B949E;">- Academic Excellence Scholarship (성적장학금 1회)</span><br>
+          <span style="font-size: 12px; color: #8B949E;">- Kim Jung-ok Scholarship (김정옥 장학금 1회)</span>
+        </td>
+        <td style="padding: 14px 8px; vertical-align: top;">Soonchunhyang Univ.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=easywater4528&show_icons=true&theme=tokyonight&title_color=F48FB1&icon_color=FFD1DC" alt="GitHub Stats" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=easywater4528&theme=tokyonight&ring=FF69B4&fire=FF69B4&currStreakLabel=FFB6C1" alt="GitHub Streak" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=easywater4528&theme=tokyonight" alt="easywater4528's GitHub Stats" width="85%"/>
 </p>
 
 ---
@@ -144,9 +180,3 @@
 
 * 📧 Email: **easywater4528@gmail.com**
 * 🧑‍💻 GitHub: [easywater4528](https://github.com/easywater4528)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=easywater4528&label=✨+visitors+✨&color=F484C2" height="30"/>
-</p>
