@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=🌼%20Hi%20I'm%20Jisoo%20Lee%20🌼&fontSize=32&fontColor=FF69B4&animation=fadeIn&theme=soft" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <p align="center">
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
