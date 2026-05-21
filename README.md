@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=160&section=header&animation=twinkling&theme=enDirect" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=🌼%20Hi%20I'm%20Jisoo%20Lee%20🌼&fontSize=32&fontColor=FF69B4&animation=fadeIn&theme=soft" width="100%" />
 </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=300&color=FF69B4&center=true&width=500&lines=🌼+Hi+I'm+Jisoo+Lee+🌼" alt="Typing SVG" />
-</h1>
 
 <p align="center">
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
