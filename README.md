@@ -17,7 +17,7 @@
 | Period | Institution & Affiliation | Status / Role |
 | :--- | :--- | :--- |
 | **2026.06 - Present** | **Dongguk University** <br> <sub>Department of Electronic and Electrical Engineering</sub> | **Research Intern** (Pre-Master's) |
-| **2022.03 - Present** | **Soonchunhyang University** <br> <sub>Department of Internet of Things (IoT)</sub> | **Undergraduate Student** <br> <sub>(GPA: 4.01 / 4.5)</sub> |
+| **2022.03 - Present** | **Soonchunhyang University** <br> <sub>Department of Internet of Things (IoT)</sub> | **Undergraduate Student** <br> |
 
 ---
 
