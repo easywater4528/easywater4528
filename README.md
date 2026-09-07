@@ -6,37 +6,7 @@
   🌐 AI & Wireless Network Researcher | 📡 Next-Generation Wi-Fi & IoV Enthusiast
 </p>
 
-## 🎓 Education & Research Journey
 
-<div align="center">
-  <table style="width: 100%; max-width: 100%; table-layout: fixed; border-collapse: collapse; border-spacing: 0; text-align: left;">
-    <thead>
-      <tr style="border-bottom: 2px solid #5A5A5A;">
-        <th style="width: 25%; padding: 12px 8px; font-weight: 600;">Period</th>
-        <th style="width: 45%; padding: 12px 8px; font-weight: 600;">Institution & Affiliation</th>
-        <th style="width: 30%; padding: 12px 8px; font-weight: 600;">Status / Role</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #3A3A3A;">
-        <td style="padding: 14px 8px; vertical-align: top;"><b>2026.06 - Present</b></td>
-        <td style="padding: 14px 8px; vertical-align: top;">
-          <span style="font-size: 16px; font-weight: bold;">Dongguk University</span><br>
-          <span style="font-size: 13px; color: #8B949E;">Department of Electronic and Electrical Engineering</span>
-        </td>
-        <td style="padding: 14px 8px; vertical-align: top;"><b>Research Intern</b><br><span style="font-size: 12px; color: #8B949E;">(Pre-Master's)</span></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #3A3A3A;">
-        <td style="padding: 14px 8px; vertical-align: top;"><b>2022.03 - Present</b></td>
-        <td style="padding: 14px 8px; vertical-align: top;">
-          <span style="font-size: 16px; font-weight: bold;">Soonchunhyang University</span><br>
-          <span style="font-size: 13px; color: #8B949E;">Department of Internet of Things (IoT)</span>
-        </td>
-        <td style="padding: 14px 8px; vertical-align: top;"><b>Undergraduate Student</b><br></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
 
 ---
 
